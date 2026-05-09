@@ -15,6 +15,9 @@
   <img src="https://img.shields.io/badge/Processing-100%25%20Local-22c55e?style=flat-square" alt="Local">
   <img src="https://img.shields.io/badge/License-MIT-a855f7?style=flat-square" alt="MIT">
   <img src="https://img.shields.io/badge/Node.js-%3E%3D22.12-339933?style=flat-square&logo=node.js" alt="Node">
+  <a href="https://font-extractor-7z5zlvlol-rich097-s-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-%E2%86%97-000000?style=flat-square&logo=vercel" alt="Live Demo">
+  </a>
 </p>
 
 <p align="center">
