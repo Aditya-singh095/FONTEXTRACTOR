@@ -39,3 +39,4 @@ desktop.ini
 # ── Misc ──────────────────────────────────────
 .cache/
 .tmp/
+.vercel-token

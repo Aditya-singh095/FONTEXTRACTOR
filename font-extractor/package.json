@@ -12,6 +12,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@splinetool/runtime": "^1.12.92",
     "astro": "^6.3.1",
     "tesseract.js": "^7.0.0"
   }
